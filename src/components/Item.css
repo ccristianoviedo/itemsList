@@ -1,0 +1,51 @@
+.itemIndividual {
+    width: 200px;
+    height: 450px;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-bottom: 80px;
+    border: rgba(128, 128, 128, 0.363) solid;
+}
+img {
+    width: 155px;
+    height: 290px;
+}
+.detalle{
+    visibility: visible;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.507);
+}
+.itemDetalles3 {
+    width: 700px;
+    height: 750px;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-bottom: 400px;
+    border: rgba(153, 19, 19, 0.363) solid;
+    background-color: rgb(48, 194, 48);
+    position: absolute;
+    visibility: hidden;
+    
+    
+}
+button{
+    visibility: visible;
+    color: black;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: rgba(226, 52, 52, 0.473);
+}
+.itemDetalles2 {
+    width: 700px;
+    height: 750px;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-bottom: 400px;
+    border: rgba(250, 1, 1, 0.89) solid;
+    background-color: rgba(0, 0, 0, 0.418);
+    position: fixed;
+    top:0;
+    
+    
+}
